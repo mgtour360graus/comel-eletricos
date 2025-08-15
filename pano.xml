@@ -1,0 +1,699 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="21009" appversion="7.1.10" hassounds="0" start="node1">
+  <panorama id="node1">
+    <input levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelbias="0.400" height="3000" width="3000">
+      <level preload="0" predecode="0" height="3000" width="3000"/>
+      <level preload="0" predecode="0" height="1500" width="1500"/>
+      <level preload="0" predecode="0" height="750" width="750"/>
+      <level preload="1" predecode="1" height="375" width="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-196.331" fovmode="2">
+      <start projection="4" tilt="0" pan="7.80898" fov="117.015"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="140" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata nodeid="node1" tags="editadas" comment="" description="Comel | Elétricos e Hidráulicos em Rio Grande/RS" source="" info="" longitude="-52.12999650" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" customnodeid="" latitude="-32.05553436" heading="-196.331" copyright="" author="Comel | Elétricos e Hidráulicos em Rio Grande/RS" datetime="" streetviewlink="https://www.google.com/maps/@-32.0555344,-52.1299965,3a,75y,163.67h,90t/data=!3m4!1e1!3m2!1sCIABIhDun-GYx_ZCoslAHUNHFlp8!2e10"/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label textalpha="1" border="1" enabled="1" backgroundcolor="0xffffff" backgroundalpha="1" wordwrap="1" bordercolor="0x000000" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" height="20" width="180"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="-350.071" distance="5.28452" id="Point01" url="{node2}"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomfov="40" blendcolor="0x000000" enabled="1" zoomafterinfov="140" softedge="0" zoomafteroutfov="40" zoomin="0" type="crossdissolve" zoomspeed="2" blendtime="1" zoomout="0" zoomoutpause="1"/>
+    <animation useinautorotation="0" clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" zoomcentercursor="1" hideabout="0" lockedkeyboardzoom="0" contextprojections="0" contextfullscreen="1" speedwheel="1" contextvr="1" lockedmouse="0" lockedkeyboard="0" simulatemass="1" invertwheel="0" invertcontrol="1" sensitivity="8" dblclickfullscreen="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelbias="0.400" height="3000" width="3000">
+      <level preload="0" predecode="0" height="3000" width="3000"/>
+      <level preload="0" predecode="0" height="1500" width="1500"/>
+      <level preload="0" predecode="0" height="750" width="750"/>
+      <level preload="1" predecode="1" height="375" width="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="29.8507" fovmode="2">
+      <start projection="4" tilt="0" pan="0" fov="100"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="140" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata nodeid="node2" tags="editadas" comment="" description="Comel | Elétricos e Hidráulicos em Rio Grande/RS" source="" info="" longitude="-52.12997169" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" customnodeid="" latitude="-32.05557698" heading="29.8507" copyright="" author="Comel | Elétricos e Hidráulicos em Rio Grande/RS" datetime="" streetviewlink="https://www.google.com/maps/@-32.055577,-52.1299717,3a,75y,29.85h,90t/data=!3m4!1e1!3m2!1sCIABIhBObJQqHQKoAo2h06ELP4NH!2e10"/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label textalpha="1" border="1" enabled="1" backgroundcolor="0xffffff" backgroundalpha="1" wordwrap="1" bordercolor="0x000000" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" height="20" width="180"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="56.1109" distance="5.28452" id="Point01" url="{node1}"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="-30.7877" distance="4.63993" id="Point02" url="{node3}"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="141.356" distance="6.72483" id="Point03" url="{node13}"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="-119.583" distance="6.27492" id="Point04" url="{node8}"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="-141.54" distance="6.32712" id="Point05" url="{node9}"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomfov="40" blendcolor="0x000000" enabled="1" zoomafterinfov="140" softedge="0" zoomafteroutfov="40" zoomin="0" type="crossdissolve" zoomspeed="2" blendtime="1" zoomout="0" zoomoutpause="1"/>
+    <animation useinautorotation="0" clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" zoomcentercursor="1" hideabout="0" lockedkeyboardzoom="0" contextprojections="0" contextfullscreen="1" speedwheel="1" contextvr="1" lockedmouse="0" lockedkeyboard="0" simulatemass="1" invertwheel="0" invertcontrol="1" sensitivity="8" dblclickfullscreen="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelbias="0.400" height="3000" width="3000">
+      <level preload="0" predecode="0" height="3000" width="3000"/>
+      <level preload="0" predecode="0" height="1500" width="1500"/>
+      <level preload="0" predecode="0" height="750" width="750"/>
+      <level preload="1" predecode="1" height="375" width="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="49.7292" fovmode="2">
+      <start projection="4" tilt="0" pan="0" fov="100"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="140" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata nodeid="node3" tags="editadas" comment="" description="Comel | Elétricos e Hidráulicos em Rio Grande/RS" source="" info="" longitude="-52.12992878" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" customnodeid="" latitude="-32.05555652" heading="49.7292" copyright="" author="Comel | Elétricos e Hidráulicos em Rio Grande/RS" datetime="" streetviewlink="https://www.google.com/maps/@-32.0555565,-52.1299288,3a,75y,49.73h,90t/data=!3m4!1e1!3m2!1sCIABIhBXcAnA7WbVCUvrZLs_UZaS!2e10"/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label textalpha="1" border="1" enabled="1" backgroundcolor="0xffffff" backgroundalpha="1" wordwrap="1" bordercolor="0x000000" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" height="20" width="180"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="169.091" distance="4.63993" id="Point01" url="{node2}"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="-102.305" distance="5.18692" id="Point02" url="{node4}"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="223.391" distance="7.72523" id="Point03" url="{node8}"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomfov="40" blendcolor="0x000000" enabled="1" zoomafterinfov="140" softedge="0" zoomafteroutfov="40" zoomin="0" type="crossdissolve" zoomspeed="2" blendtime="1" zoomout="0" zoomoutpause="1"/>
+    <animation useinautorotation="0" clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" zoomcentercursor="1" hideabout="0" lockedkeyboardzoom="0" contextprojections="0" contextfullscreen="1" speedwheel="1" contextvr="1" lockedmouse="0" lockedkeyboard="0" simulatemass="1" invertwheel="0" invertcontrol="1" sensitivity="8" dblclickfullscreen="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelbias="0.400" height="3000" width="3000">
+      <level preload="0" predecode="0" height="3000" width="3000"/>
+      <level preload="0" predecode="0" height="1500" width="1500"/>
+      <level preload="0" predecode="0" height="750" width="750"/>
+      <level preload="1" predecode="1" height="375" width="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="88.2012" fovmode="2">
+      <start projection="4" tilt="0" pan="0" fov="100"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="140" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata nodeid="node4" tags="editadas" comment="" description="Comel | Elétricos e Hidráulicos em Rio Grande/RS" source="" info="" longitude="-52.12990297" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" customnodeid="" latitude="-32.05559772" heading="88.2012" copyright="" author="Comel | Elétricos e Hidráulicos em Rio Grande/RS" datetime="" streetviewlink="https://www.google.com/maps/@-32.0555977,-52.129903,3a,75y,88.2h,90t/data=!3m4!1e1!3m2!1sCIABIhCG_L1nsRyCeevz24Oez-2r!2e10"/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label textalpha="1" border="1" enabled="1" backgroundcolor="0xffffff" backgroundalpha="1" wordwrap="1" bordercolor="0x000000" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" height="20" width="180"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="116.167" distance="5.18692" id="Point01" url="{node3}"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="-63.4899" distance="2.80007" id="Point02" url="{node5}"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomfov="40" blendcolor="0x000000" enabled="1" zoomafterinfov="140" softedge="0" zoomafteroutfov="40" zoomin="0" type="crossdissolve" zoomspeed="2" blendtime="1" zoomout="0" zoomoutpause="1"/>
+    <animation useinautorotation="0" clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" zoomcentercursor="1" hideabout="0" lockedkeyboardzoom="0" contextprojections="0" contextfullscreen="1" speedwheel="1" contextvr="1" lockedmouse="0" lockedkeyboard="0" simulatemass="1" invertwheel="0" invertcontrol="1" sensitivity="8" dblclickfullscreen="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelbias="0.400" height="3000" width="3000">
+      <level preload="0" predecode="0" height="3000" width="3000"/>
+      <level preload="0" predecode="0" height="1500" width="1500"/>
+      <level preload="0" predecode="0" height="750" width="750"/>
+      <level preload="1" predecode="1" height="375" width="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="120.338" fovmode="2">
+      <start projection="4" tilt="0" pan="0" fov="100"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="140" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata nodeid="node5" tags="editadas" comment="" description="Comel | Elétricos e Hidráulicos em Rio Grande/RS" source="" info="" longitude="-52.12988888" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" customnodeid="" latitude="-32.05561989" heading="120.338" copyright="" author="Comel | Elétricos e Hidráulicos em Rio Grande/RS" datetime="" streetviewlink="https://www.google.com/maps/@-32.0556199,-52.1298889,3a,75y,120.34h,90t/data=!3m4!1e1!3m2!1sCIABIhBASm5m6sUeel8hT_m3AdYS!2e10"/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label textalpha="1" border="1" enabled="1" backgroundcolor="0xffffff" backgroundalpha="1" wordwrap="1" bordercolor="0x000000" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" height="20" width="180"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="148.647" distance="2.80007" id="Point01" url="{node4}"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="-24.227" distance="4.57732" id="Point02" url="{node6}"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomfov="40" blendcolor="0x000000" enabled="1" zoomafterinfov="140" softedge="0" zoomafteroutfov="40" zoomin="0" type="crossdissolve" zoomspeed="2" blendtime="1" zoomout="0" zoomoutpause="1"/>
+    <animation useinautorotation="0" clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" zoomcentercursor="1" hideabout="0" lockedkeyboardzoom="0" contextprojections="0" contextfullscreen="1" speedwheel="1" contextvr="1" lockedmouse="0" lockedkeyboard="0" simulatemass="1" invertwheel="0" invertcontrol="1" sensitivity="8" dblclickfullscreen="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelbias="0.400" height="3000" width="3000">
+      <level preload="0" predecode="0" height="3000" width="3000"/>
+      <level preload="0" predecode="0" height="1500" width="1500"/>
+      <level preload="0" predecode="0" height="750" width="750"/>
+      <level preload="1" predecode="1" height="375" width="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="135.795" fovmode="2">
+      <start projection="4" tilt="0" pan="0" fov="100"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="140" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata nodeid="node6" tags="editadas" comment="" description="Comel | Elétricos e Hidráulicos em Rio Grande/RS" source="" info="" longitude="-52.12986072" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" customnodeid="" latitude="-32.05565343" heading="135.795" copyright="" author="Comel | Elétricos e Hidráulicos em Rio Grande/RS" datetime="" streetviewlink="https://www.google.com/maps/@-32.0556534,-52.1298607,3a,75y,135.79h,90t/data=!3m4!1e1!3m2!1sCIABIhBmfKo34zPfNwYJE3KmY42a!2e10"/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label textalpha="1" border="1" enabled="1" backgroundcolor="0xffffff" backgroundalpha="1" wordwrap="1" bordercolor="0x000000" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" height="20" width="180"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="171.23" distance="4.57732" id="Point01" url="{node5}"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="238.24" distance="5.85618" id="Point02" url="{node7}"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomfov="40" blendcolor="0x000000" enabled="1" zoomafterinfov="140" softedge="0" zoomafteroutfov="40" zoomin="0" type="crossdissolve" zoomspeed="2" blendtime="1" zoomout="0" zoomoutpause="1"/>
+    <animation useinautorotation="0" clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" zoomcentercursor="1" hideabout="0" lockedkeyboardzoom="0" contextprojections="0" contextfullscreen="1" speedwheel="1" contextvr="1" lockedmouse="0" lockedkeyboard="0" simulatemass="1" invertwheel="0" invertcontrol="1" sensitivity="8" dblclickfullscreen="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelbias="0.400" height="3000" width="3000">
+      <level preload="0" predecode="0" height="3000" width="3000"/>
+      <level preload="0" predecode="0" height="1500" width="1500"/>
+      <level preload="0" predecode="0" height="750" width="750"/>
+      <level preload="1" predecode="1" height="375" width="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-141.477" fovmode="2">
+      <start projection="4" tilt="0" pan="0" fov="100"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="140" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata nodeid="node7" tags="editadas" comment="" description="Comel | Elétricos e Hidráulicos em Rio Grande/RS" source="" info="" longitude="-52.12992140" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" customnodeid="" latitude="-32.05566478" heading="-141.477" copyright="" author="Comel | Elétricos e Hidráulicos em Rio Grande/RS" datetime="" streetviewlink="https://www.google.com/maps/@-32.0556648,-52.1299214,3a,75y,218.52h,90t/data=!3m4!1e1!3m2!1sCIABIhAwdu59U9GfA6H6QrGYWiif!2e10"/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label textalpha="1" border="1" enabled="1" backgroundcolor="0xffffff" backgroundalpha="1" wordwrap="1" bordercolor="0x000000" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" height="20" width="180"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="-219.032" distance="5.85618" id="Point01" url="{node6}"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="-121.925" distance="4.62674" id="Point02" url="{node8}"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="-32.815" distance="2.66881" id="Point03" url="{node10}"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="-94.2396" distance="5.16537" id="Point04" url="{node9}"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomfov="40" blendcolor="0x000000" enabled="1" zoomafterinfov="140" softedge="0" zoomafteroutfov="40" zoomin="0" type="crossdissolve" zoomspeed="2" blendtime="1" zoomout="0" zoomoutpause="1"/>
+    <animation useinautorotation="0" clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" zoomcentercursor="1" hideabout="0" lockedkeyboardzoom="0" contextprojections="0" contextfullscreen="1" speedwheel="1" contextvr="1" lockedmouse="0" lockedkeyboard="0" simulatemass="1" invertwheel="0" invertcontrol="1" sensitivity="8" dblclickfullscreen="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelbias="0.400" height="3000" width="3000">
+      <level preload="0" predecode="0" height="3000" width="3000"/>
+      <level preload="0" predecode="0" height="1500" width="1500"/>
+      <level preload="0" predecode="0" height="750" width="750"/>
+      <level preload="1" predecode="1" height="375" width="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="321.247" fovmode="2">
+      <start projection="4" tilt="0" pan="0" fov="100"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="140" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata nodeid="node8" tags="editadas" comment="" description="Comel | Elétricos e Hidráulicos em Rio Grande/RS" source="" info="" longitude="-52.12993783" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" customnodeid="" latitude="-32.05562557" heading="321.247" copyright="" author="Comel | Elétricos e Hidráulicos em Rio Grande/RS" datetime="" streetviewlink="https://www.google.com/maps/@-32.0556256,-52.1299378,3a,75y,321.25h,90t/data=!3m4!1e1!3m2!1sCIABIhAGiWzAq9v01siqMEptEVZi!2e10"/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label textalpha="1" border="1" enabled="1" backgroundcolor="0xffffff" backgroundalpha="1" wordwrap="1" bordercolor="0x000000" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" height="20" width="180"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="160.799" distance="4.62674" id="Point01" url="{node7}"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="351.813" distance="6.27492" id="Point02" url="{node2}"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="490.601" distance="5.30525" id="Point03" url="{node10}"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="314.908" distance="7.72523" id="Point04" url="{node3}"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomfov="40" blendcolor="0x000000" enabled="1" zoomafterinfov="140" softedge="0" zoomafteroutfov="40" zoomin="0" type="crossdissolve" zoomspeed="2" blendtime="1" zoomout="0" zoomoutpause="1"/>
+    <animation useinautorotation="0" clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" zoomcentercursor="1" hideabout="0" lockedkeyboardzoom="0" contextprojections="0" contextfullscreen="1" speedwheel="1" contextvr="1" lockedmouse="0" lockedkeyboard="0" simulatemass="1" invertwheel="0" invertcontrol="1" sensitivity="8" dblclickfullscreen="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelbias="0.400" height="3000" width="3000">
+      <level preload="0" predecode="0" height="3000" width="3000"/>
+      <level preload="0" predecode="0" height="1500" width="1500"/>
+      <level preload="0" predecode="0" height="750" width="750"/>
+      <level preload="1" predecode="1" height="375" width="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-63.2175" fovmode="2">
+      <start projection="4" tilt="0" pan="0" fov="100"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="140" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata nodeid="node9" tags="editadas" comment="" description="Comel | Elétricos e Hidráulicos em Rio Grande/RS" source="" info="" longitude="-52.12996164" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" customnodeid="" latitude="-32.05563324" heading="-63.2175" copyright="" author="Comel | Elétricos e Hidráulicos em Rio Grande/RS" datetime="" streetviewlink="https://www.google.com/maps/@-32.0556332,-52.1299616,3a,75y,296.78h,90t/data=!3m4!1e1!3m2!1sCIABIhAr972TaLNpW_aPRlForlOB!2e10"/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label textalpha="1" border="1" enabled="1" backgroundcolor="0xffffff" backgroundalpha="1" wordwrap="1" bordercolor="0x000000" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" height="20" width="180"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="-227.057" distance="4.54049" id="Point02" url="{node10}"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="-54.6084" distance="6.32712" id="Point01" url="{node2}"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="98.565" distance="5.45628" id="Point03" url="{node11}"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="-195.98" distance="5.16537" id="Point04" url="{node7}"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomfov="40" blendcolor="0x000000" enabled="1" zoomafterinfov="140" softedge="0" zoomafteroutfov="40" zoomin="0" type="crossdissolve" zoomspeed="2" blendtime="1" zoomout="0" zoomoutpause="1"/>
+    <animation useinautorotation="0" clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" zoomcentercursor="1" hideabout="0" lockedkeyboardzoom="0" contextprojections="0" contextfullscreen="1" speedwheel="1" contextvr="1" lockedmouse="0" lockedkeyboard="0" simulatemass="1" invertwheel="0" invertcontrol="1" sensitivity="8" dblclickfullscreen="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelbias="0.400" height="3000" width="3000">
+      <level preload="0" predecode="0" height="3000" width="3000"/>
+      <level preload="0" predecode="0" height="1500" width="1500"/>
+      <level preload="0" predecode="0" height="750" width="750"/>
+      <level preload="1" predecode="1" height="375" width="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-36.6815" fovmode="2">
+      <start projection="4" tilt="0" pan="0" fov="100"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="140" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata nodeid="node10" tags="editadas" comment="" description="Comel | Elétricos e Hidráulicos em Rio Grande/RS" source="" info="" longitude="-52.12994823" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" customnodeid="" latitude="-32.05567246" heading="-36.6815" copyright="" author="Comel | Elétricos e Hidráulicos em Rio Grande/RS" datetime="" streetviewlink="https://www.google.com/maps/@-32.0556725,-52.1299482,3a,75y,323.32h,90t/data=!3m4!1e1!3m2!1sCIABIhCIugUX9xRJaaifegip2IG7!2e10"/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label textalpha="1" border="1" enabled="1" backgroundcolor="0xffffff" backgroundalpha="1" wordwrap="1" bordercolor="0x000000" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" height="20" width="180"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="-108.02" distance="2.66881" id="Point01" url="{node7}"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="-20.5206" distance="4.54049" id="Point02" url="{node9}"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="68.7863" distance="3.08114" id="Point03" url="{node11}"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="9.68316" distance="5.63172" id="Point04" url="{node12}"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="-47.3277" distance="5.30525" id="Point05" url="{node8}"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomfov="40" blendcolor="0x000000" enabled="1" zoomafterinfov="140" softedge="0" zoomafteroutfov="40" zoomin="0" type="crossdissolve" zoomspeed="2" blendtime="1" zoomout="0" zoomoutpause="1"/>
+    <animation useinautorotation="0" clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" zoomcentercursor="1" hideabout="0" lockedkeyboardzoom="0" contextprojections="0" contextfullscreen="1" speedwheel="1" contextvr="1" lockedmouse="0" lockedkeyboard="0" simulatemass="1" invertwheel="0" invertcontrol="1" sensitivity="8" dblclickfullscreen="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelbias="0.400" height="3000" width="3000">
+      <level preload="0" predecode="0" height="3000" width="3000"/>
+      <level preload="0" predecode="0" height="1500" width="1500"/>
+      <level preload="0" predecode="0" height="750" width="750"/>
+      <level preload="1" predecode="1" height="375" width="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-23.3335" fovmode="2">
+      <start projection="4" tilt="0" pan="0" fov="100"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="140" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata nodeid="node11" tags="editadas" comment="" description="Comel | Elétricos e Hidráulicos em Rio Grande/RS" source="" info="" longitude="-52.12997974" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" customnodeid="" latitude="-32.05567985" heading="-23.3335" copyright="" author="Comel | Elétricos e Hidráulicos em Rio Grande/RS" datetime="" streetviewlink="https://www.google.com/maps/@-32.0556798,-52.1299797,3a,75y,336.67h,90t/data=!3m4!1e1!3m2!1sCIABIhD2YrNt22S6JiKsJWpkydni!2e10"/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label textalpha="1" border="1" enabled="1" backgroundcolor="0xffffff" backgroundalpha="1" wordwrap="1" bordercolor="0x000000" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" height="20" width="180"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="-97.8657" distance="3.08114" id="Point01" url="{node10}"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="-10.1088" distance="4.83625" id="Point02" url="{node12}"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="82.4479" distance="3.25039" id="Point03" url="{node15}"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="24.3645" distance="5.68169" id="Point04" url="{node14}"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="-41.551" distance="5.45628" id="Point05" url="{node9}"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomfov="40" blendcolor="0x000000" enabled="1" zoomafterinfov="140" softedge="0" zoomafteroutfov="40" zoomin="0" type="crossdissolve" zoomspeed="2" blendtime="1" zoomout="0" zoomoutpause="1"/>
+    <animation useinautorotation="0" clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" zoomcentercursor="1" hideabout="0" lockedkeyboardzoom="0" contextprojections="0" contextfullscreen="1" speedwheel="1" contextvr="1" lockedmouse="0" lockedkeyboard="0" simulatemass="1" invertwheel="0" invertcontrol="1" sensitivity="8" dblclickfullscreen="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node12">
+    <input levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelbias="0.400" height="3000" width="3000">
+      <level preload="0" predecode="0" height="3000" width="3000"/>
+      <level preload="0" predecode="0" height="1500" width="1500"/>
+      <level preload="0" predecode="0" height="750" width="750"/>
+      <level preload="1" predecode="1" height="375" width="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" tilt="0" pan="0" fov="100"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="140" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata nodeid="node12" tags="editadas" comment="" description="Comel | Elétricos e Hidráulicos em Rio Grande/RS" source="" info="" longitude="-52.12999148" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" customnodeid="" latitude="-32.05563751" heading="0" copyright="" author="Comel | Elétricos e Hidráulicos em Rio Grande/RS" datetime="" streetviewlink="https://www.google.com/maps/@-32.0556375,-52.1299915,3a,75y,90t/data=!3m4!1e1!3m2!1sCIABIhCKOsHIgdcq9SJQmvTQMA-_!2e10"/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label textalpha="1" border="1" enabled="1" backgroundcolor="0xffffff" backgroundalpha="1" wordwrap="1" bordercolor="0x000000" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" height="20" width="180"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="-166.775" distance="4.83625" id="Point01" url="{node11}"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="45.8353" distance="6.12214" id="Point02" url="{node13}"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="160.125" distance="5.94615" id="Point03" url="{node15}"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="-133.635" distance="5.63172" id="Point04" url="{node10}"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomfov="40" blendcolor="0x000000" enabled="1" zoomafterinfov="140" softedge="0" zoomafteroutfov="40" zoomin="0" type="crossdissolve" zoomspeed="2" blendtime="1" zoomout="0" zoomoutpause="1"/>
+    <animation useinautorotation="0" clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" zoomcentercursor="1" hideabout="0" lockedkeyboardzoom="0" contextprojections="0" contextfullscreen="1" speedwheel="1" contextvr="1" lockedmouse="0" lockedkeyboard="0" simulatemass="1" invertwheel="0" invertcontrol="1" sensitivity="8" dblclickfullscreen="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node13">
+    <input levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelbias="0.400" height="3000" width="3000">
+      <level preload="0" predecode="0" height="3000" width="3000"/>
+      <level preload="0" predecode="0" height="1500" width="1500"/>
+      <level preload="0" predecode="0" height="750" width="750"/>
+      <level preload="1" predecode="1" height="375" width="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-13.6493" fovmode="2">
+      <start projection="4" tilt="0" pan="0" fov="100"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="140" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata nodeid="node13" tags="editadas" comment="" description="Comel | Elétricos e Hidráulicos em Rio Grande/RS" source="" info="" longitude="-52.13003808" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" customnodeid="" latitude="-32.05559915" heading="-13.6493" copyright="" author="Comel | Elétricos e Hidráulicos em Rio Grande/RS" datetime="" streetviewlink="https://www.google.com/maps/@-32.0555991,-52.1300381,3a,75y,346.35h,90t/data=!3m4!1e1!3m2!1sCIABIhA0WbQDqAZ2u7zZpCsfGu2Z!2e10"/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label textalpha="1" border="1" enabled="1" backgroundcolor="0xffffff" backgroundalpha="1" wordwrap="1" bordercolor="0x000000" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" height="20" width="180"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="-82.1444" distance="6.72483" id="Point01" url="{node2}"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="-179.525" distance="5.30998" id="Point02" url="{node14}"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="94.6677" distance="5.32491" id="Point03" url="{node18}"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="-147.814" distance="6.12214" id="Point04" url="{node12}"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="155.621" distance="5.95293" id="Point05" url="{node17}"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomfov="40" blendcolor="0x000000" enabled="1" zoomafterinfov="140" softedge="0" zoomafteroutfov="40" zoomin="0" type="crossdissolve" zoomspeed="2" blendtime="1" zoomout="0" zoomoutpause="1"/>
+    <animation useinautorotation="0" clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" zoomcentercursor="1" hideabout="0" lockedkeyboardzoom="0" contextprojections="0" contextfullscreen="1" speedwheel="1" contextvr="1" lockedmouse="0" lockedkeyboard="0" simulatemass="1" invertwheel="0" invertcontrol="1" sensitivity="8" dblclickfullscreen="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node14">
+    <input levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelbias="0.400" height="3000" width="3000">
+      <level preload="0" predecode="0" height="3000" width="3000"/>
+      <level preload="0" predecode="0" height="1500" width="1500"/>
+      <level preload="0" predecode="0" height="750" width="750"/>
+      <level preload="1" predecode="1" height="375" width="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="39.5566" fovmode="2">
+      <start projection="4" tilt="0" pan="0" fov="100"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="140" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata nodeid="node14" tags="editadas" comment="" description="Comel | Elétricos e Hidráulicos em Rio Grande/RS" source="" info="" longitude="-52.13002433" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" customnodeid="" latitude="-32.05564546" heading="39.5566" copyright="" author="Comel | Elétricos e Hidráulicos em Rio Grande/RS" datetime="" streetviewlink="https://www.google.com/maps/@-32.0556455,-52.1300243,3a,75y,39.56h,90t/data=!3m4!1e1!3m2!1sCIABIhAUuUOdSAxuZcDe5ooZZXEN!2e10"/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label textalpha="1" border="1" enabled="1" backgroundcolor="0xffffff" backgroundalpha="1" wordwrap="1" bordercolor="0x000000" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" height="20" width="180"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="53.6814" distance="5.30998" id="Point01" url="{node13}"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="-127.589" distance="4.82902" id="Point02" url="{node15}"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="204.186" distance="5.60339" id="Point03" url="{node16}"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="-92.7454" distance="5.68169" id="Point04" url="{node11}"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomfov="40" blendcolor="0x000000" enabled="1" zoomafterinfov="140" softedge="0" zoomafteroutfov="40" zoomin="0" type="crossdissolve" zoomspeed="2" blendtime="1" zoomout="0" zoomoutpause="1"/>
+    <animation useinautorotation="0" clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" zoomcentercursor="1" hideabout="0" lockedkeyboardzoom="0" contextprojections="0" contextfullscreen="1" speedwheel="1" contextvr="1" lockedmouse="0" lockedkeyboard="0" simulatemass="1" invertwheel="0" invertcontrol="1" sensitivity="8" dblclickfullscreen="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node15">
+    <input levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelbias="0.400" height="3000" width="3000">
+      <level preload="0" predecode="0" height="3000" width="3000"/>
+      <level preload="0" predecode="0" height="1500" width="1500"/>
+      <level preload="0" predecode="0" height="750" width="750"/>
+      <level preload="1" predecode="1" height="375" width="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="42.3035" fovmode="2">
+      <start projection="4" tilt="0" pan="0" fov="100"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="140" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata nodeid="node15" tags="editadas" comment="" description="Comel | Elétricos e Hidráulicos em Rio Grande/RS" source="" info="" longitude="-52.13001293" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" customnodeid="" latitude="-32.05568780" heading="42.3035" copyright="" author="Comel | Elétricos e Hidráulicos em Rio Grande/RS" datetime="" streetviewlink="https://www.google.com/maps/@-32.0556878,-52.1300129,3a,75y,42.3h,90t/data=!3m4!1e1!3m2!1sCIABIhChE6RZf3FS_vyVmh2bCVi2!2e10"/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label textalpha="1" border="1" enabled="1" backgroundcolor="0xffffff" backgroundalpha="1" wordwrap="1" bordercolor="0x000000" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" height="20" width="180"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="-31.9151" distance="3.25039" id="Point01" url="{node11}"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="55.1581" distance="4.82902" id="Point02" url="{node14}"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="147.494" distance="2.65226" id="Point03" url="{node16}"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="83.2534" distance="5.30738" id="Point04" url="{node17}"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="22.4288" distance="5.94615" id="Point05" url="{node12}"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomfov="40" blendcolor="0x000000" enabled="1" zoomafterinfov="140" softedge="0" zoomafteroutfov="40" zoomin="0" type="crossdissolve" zoomspeed="2" blendtime="1" zoomout="0" zoomoutpause="1"/>
+    <animation useinautorotation="0" clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" zoomcentercursor="1" hideabout="0" lockedkeyboardzoom="0" contextprojections="0" contextfullscreen="1" speedwheel="1" contextvr="1" lockedmouse="0" lockedkeyboard="0" simulatemass="1" invertwheel="0" invertcontrol="1" sensitivity="8" dblclickfullscreen="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node16">
+    <input levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelbias="0.400" height="3000" width="3000">
+      <level preload="0" predecode="0" height="3000" width="3000"/>
+      <level preload="0" predecode="0" height="1500" width="1500"/>
+      <level preload="0" predecode="0" height="750" width="750"/>
+      <level preload="1" predecode="1" height="375" width="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="118.048" fovmode="2">
+      <start projection="4" tilt="0" pan="0" fov="100"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="140" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata nodeid="node16" tags="editadas" comment="" description="Comel | Elétricos e Hidráulicos em Rio Grande/RS" source="" info="" longitude="-52.13004009" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" customnodeid="" latitude="-32.05569405" heading="118.048" copyright="" author="Comel | Elétricos e Hidráulicos em Rio Grande/RS" datetime="" streetviewlink="https://www.google.com/maps/@-32.055694,-52.1300401,3a,75y,118.05h,90t/data=!3m4!1e1!3m2!1sCIABIhBT1-qGzmyqPyH3q4sbHvWu!2e10"/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label textalpha="1" border="1" enabled="1" backgroundcolor="0xffffff" backgroundalpha="1" wordwrap="1" bordercolor="0x000000" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" height="20" width="180"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="129.102" distance="4.79246" id="Point01" url="{node17}"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="43.2384" distance="2.65226" id="Point02" url="{node15}"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="230.365" distance="1.91214" id="Point03" url="{node20}"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="157.767" distance="5.34012" id="Point04" url="{node19}"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="102.677" distance="5.60339" id="Point05" url="{node14}"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomfov="40" blendcolor="0x000000" enabled="1" zoomafterinfov="140" softedge="0" zoomafteroutfov="40" zoomin="0" type="crossdissolve" zoomspeed="2" blendtime="1" zoomout="0" zoomoutpause="1"/>
+    <animation useinautorotation="0" clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" zoomcentercursor="1" hideabout="0" lockedkeyboardzoom="0" contextprojections="0" contextfullscreen="1" speedwheel="1" contextvr="1" lockedmouse="0" lockedkeyboard="0" simulatemass="1" invertwheel="0" invertcontrol="1" sensitivity="8" dblclickfullscreen="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node17">
+    <input levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelbias="0.400" height="3000" width="3000">
+      <level preload="0" predecode="0" height="3000" width="3000"/>
+      <level preload="0" predecode="0" height="1500" width="1500"/>
+      <level preload="0" predecode="0" height="750" width="750"/>
+      <level preload="1" predecode="1" height="375" width="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-85.2737" fovmode="2">
+      <start projection="4" tilt="0" pan="0" fov="100"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="140" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata nodeid="node17" tags="editadas" comment="" description="Comel | Elétricos e Hidráulicos em Rio Grande/RS" source="" info="" longitude="-52.13004984" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" customnodeid="" latitude="-32.05565175" heading="-85.2737" copyright="" author="Comel | Elétricos e Hidráulicos em Rio Grande/RS" datetime="" streetviewlink="https://www.google.com/maps/@-32.0556518,-52.1300498,3a,75y,274.73h,90t/data=!3m4!1e1!3m2!1sCIABIhACdyEnXj0brzWVJXbGzNmg!2e10"/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label textalpha="1" border="1" enabled="1" backgroundcolor="0xffffff" backgroundalpha="1" wordwrap="1" bordercolor="0x000000" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" height="20" width="180"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="-254.22" distance="4.79246" id="Point01" url="{node16}"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="-96.0033" distance="5.95293" id="Point02" url="{node13}"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="-41.8854" distance="5.74553" id="Point03" url="{node18}"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="85.8284" distance="5.49579" id="Point04" url="{node20}"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="-224.324" distance="5.30738" id="Point05" url="{node15}"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomfov="40" blendcolor="0x000000" enabled="1" zoomafterinfov="140" softedge="0" zoomafteroutfov="40" zoomin="0" type="crossdissolve" zoomspeed="2" blendtime="1" zoomout="0" zoomoutpause="1"/>
+    <animation useinautorotation="0" clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" zoomcentercursor="1" hideabout="0" lockedkeyboardzoom="0" contextprojections="0" contextfullscreen="1" speedwheel="1" contextvr="1" lockedmouse="0" lockedkeyboard="0" simulatemass="1" invertwheel="0" invertcontrol="1" sensitivity="8" dblclickfullscreen="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node18">
+    <input levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelbias="0.400" height="3000" width="3000">
+      <level preload="0" predecode="0" height="3000" width="3000"/>
+      <level preload="0" predecode="0" height="1500" width="1500"/>
+      <level preload="0" predecode="0" height="750" width="750"/>
+      <level preload="1" predecode="1" height="375" width="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="12.9294" fovmode="2">
+      <start projection="4" tilt="0" pan="0" fov="100"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="140" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata nodeid="node18" tags="editadas" comment="" description="Comel | Elétricos e Hidráulicos em Rio Grande/RS" source="" info="" longitude="-52.13009172" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" customnodeid="" latitude="-32.05561420" heading="12.9294" copyright="" author="Comel | Elétricos e Hidráulicos em Rio Grande/RS" datetime="" streetviewlink="https://www.google.com/maps/@-32.0556142,-52.1300917,3a,75y,12.93h,90t/data=!3m4!1e1!3m2!1sCIABIhC3rRutEadugHSJLkJYDOll!2e10"/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label textalpha="1" border="1" enabled="1" backgroundcolor="0xffffff" backgroundalpha="1" wordwrap="1" bordercolor="0x000000" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" height="20" width="180"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="-58.7536" distance="5.32491" id="Point01" url="{node13}"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="-150.132" distance="4.98777" id="Point02" url="{node19}"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="120.263" distance="2.54908" id="Point03" url="{node22}"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="-123.682" distance="5.74553" id="Point04" url="{node17}"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomfov="40" blendcolor="0x000000" enabled="1" zoomafterinfov="140" softedge="0" zoomafteroutfov="40" zoomin="0" type="crossdissolve" zoomspeed="2" blendtime="1" zoomout="0" zoomoutpause="1"/>
+    <animation useinautorotation="0" clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" zoomcentercursor="1" hideabout="0" lockedkeyboardzoom="0" contextprojections="0" contextfullscreen="1" speedwheel="1" contextvr="1" lockedmouse="0" lockedkeyboard="0" simulatemass="1" invertwheel="0" invertcontrol="1" sensitivity="8" dblclickfullscreen="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node19">
+    <input levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelbias="0.400" height="3000" width="3000">
+      <level preload="0" predecode="0" height="3000" width="3000"/>
+      <level preload="0" predecode="0" height="1500" width="1500"/>
+      <level preload="0" predecode="0" height="750" width="750"/>
+      <level preload="1" predecode="1" height="375" width="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="57.7945" fovmode="2">
+      <start projection="4" tilt="0" pan="0" fov="100"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="140" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata nodeid="node19" tags="editadas" comment="" description="Comel | Elétricos e Hidráulicos em Rio Grande/RS" source="" info="" longitude="-52.13007630" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" customnodeid="" latitude="-32.05565711" heading="57.7945" copyright="" author="Comel | Elétricos e Hidráulicos em Rio Grande/RS" datetime="" streetviewlink="https://www.google.com/maps/@-32.0556571,-52.1300763,3a,75y,57.79h,90t/data=!3m4!1e1!3m2!1sCIABIhCFRLTuq4RfcTGnj2kGYpLm!2e10"/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label textalpha="1" border="1" enabled="1" backgroundcolor="0xffffff" backgroundalpha="1" wordwrap="1" bordercolor="0x000000" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" height="20" width="180"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="74.7335" distance="4.98777" id="Point01" url="{node18}"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="-103.426" distance="5.10543" id="Point02" url="{node20}"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="-82.4862" distance="5.34012" id="Point03" url="{node16}"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomfov="40" blendcolor="0x000000" enabled="1" zoomafterinfov="140" softedge="0" zoomafteroutfov="40" zoomin="0" type="crossdissolve" zoomspeed="2" blendtime="1" zoomout="0" zoomoutpause="1"/>
+    <animation useinautorotation="0" clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" zoomcentercursor="1" hideabout="0" lockedkeyboardzoom="0" contextprojections="0" contextfullscreen="1" speedwheel="1" contextvr="1" lockedmouse="0" lockedkeyboard="0" simulatemass="1" invertwheel="0" invertcontrol="1" sensitivity="8" dblclickfullscreen="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node20">
+    <input levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelbias="0.400" height="3000" width="3000">
+      <level preload="0" predecode="0" height="3000" width="3000"/>
+      <level preload="0" predecode="0" height="1500" width="1500"/>
+      <level preload="0" predecode="0" height="750" width="750"/>
+      <level preload="1" predecode="1" height="375" width="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="49.9652" fovmode="2">
+      <start projection="4" tilt="0" pan="0" fov="100"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="140" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata nodeid="node20" tags="editadas" comment="" description="Comel | Elétricos e Hidráulicos em Rio Grande/RS" source="" info="" longitude="-52.13005886" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" customnodeid="" latitude="-32.05570058" heading="49.9652" copyright="" author="Comel | Elétricos e Hidráulicos em Rio Grande/RS" datetime="" streetviewlink="https://www.google.com/maps/@-32.0557006,-52.1300589,3a,75y,49.97h,90t/data=!3m4!1e1!3m2!1sCIABIhCEC7offLYsFMle1-kX-rVY!2e10"/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label textalpha="1" border="1" enabled="1" backgroundcolor="0xffffff" backgroundalpha="1" wordwrap="1" bordercolor="0x000000" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" height="20" width="180"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="-17.7176" distance="1.91214" id="Point01" url="{node16}"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="68.7446" distance="5.10543" id="Point02" url="{node19}"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="160.769" distance="3.65048" id="Point03" url="{node24}"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="97.7598" distance="5.97197" id="Point04" url="{node23}"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="41.0673" distance="5.49579" id="Point05" url="{node17}"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomfov="40" blendcolor="0x000000" enabled="1" zoomafterinfov="140" softedge="0" zoomafteroutfov="40" zoomin="0" type="crossdissolve" zoomspeed="2" blendtime="1" zoomout="0" zoomoutpause="1"/>
+    <animation useinautorotation="0" clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" zoomcentercursor="1" hideabout="0" lockedkeyboardzoom="0" contextprojections="0" contextfullscreen="1" speedwheel="1" contextvr="1" lockedmouse="0" lockedkeyboard="0" simulatemass="1" invertwheel="0" invertcontrol="1" sensitivity="8" dblclickfullscreen="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node22">
+    <input levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelbias="0.400" height="3000" width="3000">
+      <level preload="0" predecode="0" height="3000" width="3000"/>
+      <level preload="0" predecode="0" height="1500" width="1500"/>
+      <level preload="0" predecode="0" height="750" width="750"/>
+      <level preload="1" predecode="1" height="375" width="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="269.219" fovmode="2">
+      <start projection="4" tilt="0" pan="0" fov="100"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="140" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata nodeid="node22" tags="editadas" comment="" description="Comel | Elétricos e Hidráulicos em Rio Grande/RS" source="" info="" longitude="-52.13011754" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" customnodeid="" latitude="-32.05562103" heading="269.219" copyright="" author="Comel | Elétricos e Hidráulicos em Rio Grande/RS" datetime="" streetviewlink="https://www.google.com/maps/@-32.055621,-52.1301175,3a,75y,269.22h,90t/data=!3m4!1e1!3m2!1sCIABIhC0prwxSTvw_D_35YBqYkQA!2e10"/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label textalpha="1" border="1" enabled="1" backgroundcolor="0xffffff" backgroundalpha="1" wordwrap="1" bordercolor="0x000000" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" height="20" width="180"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="196.553" distance="2.54908" id="Point01" url="{node18}"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="102.112" distance="4.95865" id="Point02" url="{node23}"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="381.881" distance="3.11688" id="Point03" url="{node26}"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomfov="40" blendcolor="0x000000" enabled="1" zoomafterinfov="140" softedge="0" zoomafteroutfov="40" zoomin="0" type="crossdissolve" zoomspeed="2" blendtime="1" zoomout="0" zoomoutpause="1"/>
+    <animation useinautorotation="0" clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" zoomcentercursor="1" hideabout="0" lockedkeyboardzoom="0" contextprojections="0" contextfullscreen="1" speedwheel="1" contextvr="1" lockedmouse="0" lockedkeyboard="0" simulatemass="1" invertwheel="0" invertcontrol="1" sensitivity="8" dblclickfullscreen="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node23">
+    <input levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node23/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelbias="0.400" height="3000" width="3000">
+      <level preload="0" predecode="0" height="3000" width="3000"/>
+      <level preload="0" predecode="0" height="1500" width="1500"/>
+      <level preload="0" predecode="0" height="750" width="750"/>
+      <level preload="1" predecode="1" height="375" width="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-71.4811" fovmode="2">
+      <start projection="4" tilt="0" pan="0" fov="100"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="140" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata nodeid="node23" tags="editadas" comment="" description="Comel | Elétricos e Hidráulicos em Rio Grande/RS" source="" info="" longitude="-52.13010580" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" customnodeid="" latitude="-32.05566450" heading="-71.4811" copyright="" author="Comel | Elétricos e Hidráulicos em Rio Grande/RS" datetime="" streetviewlink="https://www.google.com/maps/@-32.0556645,-52.1301058,3a,75y,288.52h,90t/data=!3m4!1e1!3m2!1sCIABIhBy0HJplHJS0dSjqEsVVf3b!2e10"/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label textalpha="1" border="1" enabled="1" backgroundcolor="0xffffff" backgroundalpha="1" wordwrap="1" bordercolor="0x000000" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" height="20" width="180"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="-240.696" distance="5.4039" id="Point01" url="{node24}"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="-58.5885" distance="4.95865" id="Point02" url="{node22}"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="-203.686" distance="5.97197" id="Point03" url="{node20}"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomfov="40" blendcolor="0x000000" enabled="1" zoomafterinfov="140" softedge="0" zoomafteroutfov="40" zoomin="0" type="crossdissolve" zoomspeed="2" blendtime="1" zoomout="0" zoomoutpause="1"/>
+    <animation useinautorotation="0" clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" zoomcentercursor="1" hideabout="0" lockedkeyboardzoom="0" contextprojections="0" contextfullscreen="1" speedwheel="1" contextvr="1" lockedmouse="0" lockedkeyboard="0" simulatemass="1" invertwheel="0" invertcontrol="1" sensitivity="8" dblclickfullscreen="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node24">
+    <input levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node24/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelbias="0.400" height="3000" width="3000">
+      <level preload="0" predecode="0" height="3000" width="3000"/>
+      <level preload="0" predecode="0" height="1500" width="1500"/>
+      <level preload="0" predecode="0" height="750" width="750"/>
+      <level preload="1" predecode="1" height="375" width="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-25.0639" fovmode="2">
+      <start projection="4" tilt="0" pan="0" fov="100"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="140" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata nodeid="node24" tags="editadas" comment="" description="Comel | Elétricos e Hidráulicos em Rio Grande/RS" source="" info="" longitude="-52.13009507" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" customnodeid="" latitude="-32.05571224" heading="-25.0639" copyright="" author="Comel | Elétricos e Hidráulicos em Rio Grande/RS" datetime="" streetviewlink="https://www.google.com/maps/@-32.0557122,-52.1300951,3a,75y,334.94h,90t/data=!3m4!1e1!3m2!1sCIABIhA7QW3h9UiarNQtuc9rLZCN!2e10"/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label textalpha="1" border="1" enabled="1" backgroundcolor="0xffffff" backgroundalpha="1" wordwrap="1" bordercolor="0x000000" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" height="20" width="180"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="-94.2602" distance="3.65048" id="Point01" url="{node20}"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="-14.2788" distance="5.4039" id="Point02" url="{node23}"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="14.4128" distance="5.52169" id="Point03" url="{node25}"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomfov="40" blendcolor="0x000000" enabled="1" zoomafterinfov="140" softedge="0" zoomafteroutfov="40" zoomin="0" type="crossdissolve" zoomspeed="2" blendtime="1" zoomout="0" zoomoutpause="1"/>
+    <animation useinautorotation="0" clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" zoomcentercursor="1" hideabout="0" lockedkeyboardzoom="0" contextprojections="0" contextfullscreen="1" speedwheel="1" contextvr="1" lockedmouse="0" lockedkeyboard="0" simulatemass="1" invertwheel="0" invertcontrol="1" sensitivity="8" dblclickfullscreen="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node25">
+    <input levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node25/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelbias="0.400" height="3000" width="3000">
+      <level preload="0" predecode="0" height="3000" width="3000"/>
+      <level preload="0" predecode="0" height="1500" width="1500"/>
+      <level preload="0" predecode="0" height="750" width="750"/>
+      <level preload="1" predecode="1" height="375" width="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="73.0657" fovmode="2">
+      <start projection="4" tilt="0" pan="0" fov="100"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="140" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata nodeid="node25" tags="editadas" comment="" description="Comel | Elétricos e Hidráulicos em Rio Grande/RS" source="" info="" longitude="-52.13013232" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" customnodeid="" latitude="-32.05567391" heading="73.0657" copyright="" author="Comel | Elétricos e Hidráulicos em Rio Grande/RS" datetime="" streetviewlink="https://www.google.com/maps/@-32.0556739,-52.1301323,3a,75y,73.07h,90t/data=!3m4!1e1!3m2!1sCIABIhCMfxTeEO84xNdbfJq6y1Po!2e10"/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label textalpha="1" border="1" enabled="1" backgroundcolor="0xffffff" backgroundalpha="1" wordwrap="1" bordercolor="0x000000" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" height="20" width="180"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="90.6553" distance="4.90858" id="Point01" url="{node26}"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="-67.4577" distance="5.52169" id="Point02" url="{node24}"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomfov="40" blendcolor="0x000000" enabled="1" zoomafterinfov="140" softedge="0" zoomafteroutfov="40" zoomin="0" type="crossdissolve" zoomspeed="2" blendtime="1" zoomout="0" zoomoutpause="1"/>
+    <animation useinautorotation="0" clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" zoomcentercursor="1" hideabout="0" lockedkeyboardzoom="0" contextprojections="0" contextfullscreen="1" speedwheel="1" contextvr="1" lockedmouse="0" lockedkeyboard="0" simulatemass="1" invertwheel="0" invertcontrol="1" sensitivity="8" dblclickfullscreen="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node26">
+    <input levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node26/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelbias="0.400" height="3000" width="3000">
+      <level preload="0" predecode="0" height="3000" width="3000"/>
+      <level preload="0" predecode="0" height="1500" width="1500"/>
+      <level preload="0" predecode="0" height="750" width="750"/>
+      <level preload="1" predecode="1" height="375" width="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="86.3379" fovmode="2">
+      <start projection="4" tilt="0" pan="0" fov="100"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="140" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata nodeid="node26" tags="editadas" comment="" description="Comel | Elétricos e Hidráulicos em Rio Grande/RS" source="" info="" longitude="-52.13014806" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" customnodeid="" latitude="-32.05563183" heading="86.3379" copyright="" author="Comel | Elétricos e Hidráulicos em Rio Grande/RS" datetime="" streetviewlink="https://www.google.com/maps/@-32.0556318,-52.1301481,3a,75y,86.34h,90t/data=!3m4!1e1!3m2!1sCIABIhCNjjdjFwW8sIYtxh4zgZ-N!2e10"/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label textalpha="1" border="1" enabled="1" backgroundcolor="0xffffff" backgroundalpha="1" wordwrap="1" bordercolor="0x000000" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" height="20" width="180"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="-76.0725" distance="4.90858" id="Point01" url="{node25}"/>
+      <hotspot tilt="0" description="" target="$fwd" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS" skinid="ht_node" pan="18.9996" distance="3.11688" id="Point02" url="{node22}"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomfov="40" blendcolor="0x000000" enabled="1" zoomafterinfov="140" softedge="0" zoomafteroutfov="40" zoomin="0" type="crossdissolve" zoomspeed="2" blendtime="1" zoomout="0" zoomoutpause="1"/>
+    <animation useinautorotation="0" clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" zoomcentercursor="1" hideabout="0" lockedkeyboardzoom="0" contextprojections="0" contextfullscreen="1" speedwheel="1" contextvr="1" lockedmouse="0" lockedkeyboard="0" simulatemass="1" invertwheel="0" invertcontrol="1" sensitivity="8" dblclickfullscreen="0" rubberband="0"/>
+  </panorama>
+  <masternode>
+    <userdata copyright="" tags="" author="" comment="" description="Comel | Elétricos e Hidráulicos em Rio Grande/RS" title="Comel | Elétricos e Hidráulicos em Rio Grande/RS"/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
